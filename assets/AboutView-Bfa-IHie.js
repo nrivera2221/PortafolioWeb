@@ -1,0 +1,1 @@
+import{_ as r,c as o,o as _}from"./index-CAijcgGZ.js";const n={};function s(e,t,c,p,u,f){return null}const a=r(n,[["render",s]]),d={__name:"AboutView",setup(e){return(t,c)=>(_(),o(a))}};export{d as default};
